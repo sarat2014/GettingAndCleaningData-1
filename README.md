@@ -29,3 +29,7 @@ Steps to run this project
 Output
 ------
 A tidy data set `HARUsingSmartphones.txt` will be generated.
+
+run_analysis.md
+---------------
+This file explains the R script `run_analysis.R`
