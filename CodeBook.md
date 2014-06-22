@@ -63,7 +63,7 @@ Summary of variables
 --------------------
 
 ```r
-summary(dtTidy)
+summary(tidyData)
 ```
 
 ```
